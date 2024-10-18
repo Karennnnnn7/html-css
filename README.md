@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites  e agora vou gerenciar meus repositóriosasdfas!
 
-<a href="https://karennnnnn7.github.io/html-css/desafios/desafio02/pacote-projeto-d010/android">
+<a href="https://karennnnnn7.github.io/html-css/desafios/desafio02/pacote-projeto-d010/android">teste</a>
