@@ -6,4 +6,4 @@
 <a href="https://karennnnnn7.github.io/html-css/desafios/desafio02/pacote-projeto-d010/android">teste</a>
 
 Teste de imagem de fundo
-<a href= "https://karennnnnn7.github.io/html-css/exercicios/ex021/fundo005">ver</a>
+<a href="https://karennnnnn7.github.io/html-css//exercicios/ex0021/fundo005.html">ver</a>
